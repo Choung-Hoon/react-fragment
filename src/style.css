@@ -1,0 +1,27 @@
+.b1,
+h1,
+p,
+span {
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.sb {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  background-color: powderblue;
+}
+
+p {
+  background-color: pink;
+}
+
+table {
+  border: 1px solid black;
+}
+td {
+  border: 1px solid black;
+}
